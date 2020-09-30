@@ -1,0 +1,12 @@
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\bin\Debug\Formelement.exe.config
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\bin\Debug\Formelement.exe
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\bin\Debug\Formelement.pdb
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\obj\Debug\Formelement.csprojAssemblyReference.cache
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\obj\Debug\Formelement.Form1.resources
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\obj\Debug\Formelement.Properties.Resources.resources
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\obj\Debug\Formelement.csproj.GenerateResource.cache
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\obj\Debug\Formelement.csproj.CoreCompileInputs.cache
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\obj\Debug\Formelement.exe
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\obj\Debug\Formelement.pdb
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\obj\Debug\Formelement.Search.resources
+C:\Users\Dr. Király Zoltán\source\repos\Formelement\Formelement\obj\Debug\Formelement.ChangeForm.resources
